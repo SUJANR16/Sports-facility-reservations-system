@@ -11,7 +11,7 @@ def view_facilities():
     print("\n--- Available Sports Facilities ---")
     for facility in facilities:
         print(facility)
-
+#This is view 
 def view_reservations():
     print("\n--- Current Reservations ---")
     for facility, reservations in facilities.items():
