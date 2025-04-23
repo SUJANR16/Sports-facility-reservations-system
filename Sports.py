@@ -6,7 +6,7 @@ facilities = {
     'Basketball Court': [],
     'Swimming Pool': []
 }
-
+#Code fixed 
 def view_facilities():
     print("\n--- Available Sports Facilities ---")
     for facility in facilities:
